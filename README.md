@@ -102,5 +102,11 @@ Articles are stored as individual JSON files within the ./articles directory. Ea
 }
 ```
 
+## Demo
+<img width="946" height="657" alt="Screenshot 2025-10-17 at 11 25 42 PM" src="https://github.com/user-attachments/assets/92f16987-8b16-41bb-a85f-d1e2baaca4f7" />
+
+<img width="952" height="638" alt="Screenshot 2025-10-17 at 11 25 54 PM" src="https://github.com/user-attachments/assets/f3f34ac7-c00e-4681-87db-892b74ab5dc6" />
+
+
 ## Acknowledgement
 https://roadmap.sh/projects/personal-blog
